@@ -373,8 +373,7 @@ header .container div:last-child {
 .lec .fourth {
     padding: 70px 0;
     background-image: url(photos/معبد\ إدفو.jpg);
-    background-size: cover;
-    background-position: 0 78%;
+    background-size: 100% 100%;
     position: relative;
 }
 .lec .fourth::before {

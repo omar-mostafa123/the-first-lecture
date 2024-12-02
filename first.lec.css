@@ -328,6 +328,18 @@ header .container div:last-child {
     }
 }
 
+@media (max-width: 992px) {
+    .lec .second::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: #123265f0;
+    }
+}
+
 /*start the third*/
 
 .lec .third {
@@ -479,6 +491,18 @@ header .container div:last-child {
         flex-direction: column;
         gap: 15px;
         align-items: center;
+    }
+}
+
+@media (max-width: 992px) {
+    .lec .fourth::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: #123265f0;
     }
 }
 

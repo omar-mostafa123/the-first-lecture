@@ -512,6 +512,16 @@ header .container div:last-child {
     }
 }
 
+@media (max-width: 665px) {
+    .lec .fourth .container .article-fo p:nth-child(3)::before,
+    .lec .fourth .container .article-fo p:nth-child(4)::before, 
+    .lec .fourth .container .article-fo p:nth-child(5)::before, 
+    .lec .fourth .container .article-fo p:nth-child(6)::before, 
+    .lec .fourth .container .article-fo p:nth-child(7)::before {
+        top: 14px;
+    }
+}
+
 @media (max-width: 400px) {
     .lec .fourth .container > figure img {
         width: 250px;

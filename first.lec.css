@@ -250,6 +250,7 @@ header .container div:last-child {
     color: #188095;
 }
 
+/*media*/
 
 @media (max-width: 1200px) {
     .lec .first .container {
@@ -318,6 +319,7 @@ header .container div:last-child {
     color: wheat;
 }
 
+/*media*/
 
 @media (max-width: 1200px) {
     .lec .second .container {
@@ -384,6 +386,7 @@ header .container div:last-child {
     color: #188095;
 }
 
+/*media*/
 
 @media (max-width: 1200px) {
     .lec .third .container {
@@ -484,6 +487,7 @@ header .container div:last-child {
     color: wheat;
 }
 
+/*media*/
 
 @media (max-width: 1200px) {
     .lec .fourth .container {

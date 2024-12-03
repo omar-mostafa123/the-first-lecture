@@ -518,7 +518,7 @@ header .container div:last-child {
     .lec .fourth .container .article-fo p:nth-child(5)::before, 
     .lec .fourth .container .article-fo p:nth-child(6)::before, 
     .lec .fourth .container .article-fo p:nth-child(7)::before {
-        top: 14px;
+        top: 18px;
     }
 }
 

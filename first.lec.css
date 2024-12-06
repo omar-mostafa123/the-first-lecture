@@ -242,7 +242,7 @@ header .container div:last-child {
     font-size: 18px;
     line-height: 31px;
     flex-direction: column;
-    gap: 11px;
+    gap: 15px;
 }
 
 .lec .first .container .article-fir strong {
@@ -311,7 +311,7 @@ header .container div:last-child {
     line-height: 31px;
     color: white;
     flex-direction: column;
-    gap: 11px;
+    gap: 15px;
 }
 
 .lec .second .container .article-sec span {
@@ -366,7 +366,7 @@ header .container div:last-child {
     font-size: 18px;
     line-height: 31px;
     flex-direction: column;
-    gap: 11px;
+    gap: 15px;
 }
 
 .lec .third .container .article-th strong {
@@ -443,7 +443,7 @@ header .container div:last-child {
 .lec .fourth .container .article-fo p:nth-child(5),
 .lec .fourth .container .article-fo p:nth-child(6),
 .lec .fourth .container .article-fo p:nth-child(7){
-    margin-right: 18px;
+    margin-right: 22px;
     position: relative;
 }
 .lec .fourth .container .article-fo p:nth-child(3)::before,
@@ -520,7 +520,7 @@ header .container div:last-child {
     font-size: 18px;
     line-height: 31px;
     flex-direction: column;
-    gap: 11px;
+    gap: 15px;
 }
 
 .lec .fifth .container .article-fif strong {
